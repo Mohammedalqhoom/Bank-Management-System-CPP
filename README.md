@@ -64,3 +64,20 @@ Bank-Management-System-CPP/
 ├── Sys_Banck.slnx
 ├── appproplem3.vcxproj
 └── appproplem3.vcxproj.filters
+## Screenshots
+
+### Login Screen
+
+![Login Screen](Screenshots/login.png)
+
+### Main Menu
+
+![Main Menu](Screenshots/main-menu.png)
+
+### Transaction Menu
+
+![Transaction Menu](Screenshots/transactions.png)
+
+### User Management
+
+![User Management](Screenshots/user-management.png)
